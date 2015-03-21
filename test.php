@@ -56,7 +56,7 @@ function generate($num)
 }
 
 echo generate(3);
-
+//commit 2
 
 function generate1($max) {
     $arr = [];
